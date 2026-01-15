@@ -4,7 +4,7 @@
 
 # Transcribo
 
-### AI-Powered Voice-to-Text for Windows
+### AI-Powered Voice-to-Text for Windows (for now :D)
 **100% Local • 100% Private • 100% Yours**
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8UuNFPGcGN)
