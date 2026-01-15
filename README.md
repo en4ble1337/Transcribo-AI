@@ -1,6 +1,6 @@
 <div align="center">
 
-![Transcribo Logo](assets/logo2.png)
+![Transcribo Logo](assets/logo.png)
 
 # Transcribo
 
