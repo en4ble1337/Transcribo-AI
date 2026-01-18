@@ -17,53 +17,53 @@
 
 ---
 
-## 🎯 What is Transcribo?
+## What is Transcribo?
 
 **Transcribo** is your private, offline AI voice assistant that transforms how you write. Press a hotkey, speak naturally, and watch your words appear perfectly formatted in **any application**—Word, Slack, Discord, VS Code, you name it.
 
 Unlike standard dictation tools that just type what you say, Transcribo uses **local AI** to understand context and instantly rewrite your speech into professional emails, structured notes, or casual messages. All processing happens on your machine—**no cloud, no subscriptions, no limits**.
 
-### 🚀 Why Transcribo?
+### Why Transcribo?
 
-- **🔒 Privacy First**: Your voice never leaves your PC. 100% offline processing.
-- **⚡ Lightning Fast**: GPU-accelerated transcription with zero latency.
-- **🎨 Intelligent Modes**: Transform rambles into polished text automatically.
-- **🌍 Universal**: Works in any app with a text box—no integrations needed.
-- **💰 Anti-Subscription**: Pay once, own forever. No recurring fees.
-- **🌐 99+ Languages**: Auto-detect or manually select from nearly 100 languages.
+- **Privacy First**: Your voice never leaves your PC. 100% offline processing.
+- **Lightning Fast**: GPU-accelerated transcription with zero latency.
+- **Intelligent Modes**: Transform rambles into polished text automatically.
+- **Universal**: Works in any app with a text box—no integrations needed.
+- **Anti-Subscription**: Pay once, own forever. No recurring fees.
+- **99+ Languages**: Auto-detect or manually select from nearly 100 languages.
 
 ---
 
-## ✨ Features
+## Features
 
-### 🎙️ **Voice Activity Detection (VAD)**
+### Voice Activity Detection (VAD)
 Hands-free mode that automatically starts recording when you speak and stops when you pause. No button pressing required.
 
-### 🧠 **AI-Powered Modes**
+### AI-Powered Modes
 - **Raw**: Pure transcription—exactly what you said
 - **Email**: Turns casual speech into professional emails with subject lines
 - **Notes**: Structured markdown with action items extracted
 - **Chat**: Casual messages for social apps (Discord, Twitter, etc.)
 - **Custom**: Create your own modes with custom prompts
 
-### 📋 **Instant Copy & Paste**
+### Instant Copy & Paste
 Transcribed text is automatically copied to your clipboard and optionally pasted into your active window. Seamless workflow integration.
 
-### 📜 **Transcript History**
+### Transcript History
 Never lose a thought. All transcriptions are saved locally in a searchable database. Review, copy, or export anytime.
 
-### ⌨️ **Customizable Hotkeys**
+### Customizable Hotkeys
 Set your own global hotkey to trigger recording from any application. Default is `Ctrl+Space`.
 
-### 🎨 **Floating Widget**
+### Floating Widget
 Visual feedback overlay showing recording and processing status. Minimal, unobtrusive design.
 
-### 🔧 **Local LLM Integration**
+### Local LLM Integration
 Connect to Ollama, LM Studio, or any OpenAI-compatible local LLM for advanced text formatting and rewriting.
 
 ---
 
-## 🎬 Demo
+## Demo
 
 > **Coming Soon**: Video demonstrations showing Transcribo in action across different applications and modes.
 
@@ -71,7 +71,7 @@ For now, check out our [website](https://transcriboai.com) for live demos and tu
 
 ---
 
-## 📥 Download
+## Download
 
 ### Windows 10/11
 
@@ -91,13 +91,13 @@ Choose your preferred installation method:
 
 > **Mac Version**: Coming soon! Once Windows beta is stable, we'll retrofit for macOS.
 
-### 🔐 Security
+### Security
 
 All releases are scanned and verified. Check our latest [VirusTotal scan results](https://www.virustotal.com/gui/file/78b231de35e366458b892eaa6aa4fb35e95844e5b429b3c2eacea6ce50dd5f4c/details).
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 1. **Install or Extract** Transcribo
 2. **Run** `Transcribo.exe`
@@ -107,7 +107,7 @@ All releases are scanned and verified. Check our latest [VirusTotal scan results
    - Press `Ctrl+Space` → Speak → Press `Ctrl+Space` again
    - Text appears in your clipboard (and optionally auto-pastes)!
 
-### ⚙️ Configuration
+### Configuration
 
 Right-click the system tray icon → **Settings**
 
@@ -119,27 +119,27 @@ Right-click the system tray icon → **Settings**
 
 ---
 
-## 🎨 Use Cases
+## Use Cases
 
-### 📧 **Email Writing**
+### Email Writing
 Speak naturally: *"Hey, I wanted to follow up on that project we discussed last week..."*  
 Get: Professional email with subject line, proper greeting, and signature.
 
-### 📝 **Note Taking**
+### Note Taking
 Ramble during meetings, get structured markdown notes with action items automatically extracted.
 
-### 💬 **Social Media**
+### Social Media
 Speak your thoughts, get perfectly formatted tweets, Discord messages, or Reddit posts.
 
-### 💻 **Code Documentation**
+### Code Documentation
 Describe your code verbally, get properly formatted comments and docstrings.
 
-### 📚 **Content Creation**
+### Content Creation
 Draft blog posts, articles, or scripts by speaking naturally—let AI handle the formatting.
 
 ---
 
-## ❓ FAQ
+## FAQ
 
 <details>
 <summary><strong>Is it really private and offline?</strong></summary>
@@ -196,7 +196,7 @@ Absolutely. We stand by our **anti-subscription philosophy**. You pay once and o
 
 ---
 
-## 🛠️ System Requirements
+## System Requirements
 
 ### Minimum
 - **OS**: Windows 10 (64-bit)
@@ -213,33 +213,33 @@ Absolutely. We stand by our **anti-subscription philosophy**. You pay once and o
 
 ---
 
-## 🤝 Community
+## Community
 
 Join thousands of users transforming how they write!
 
-- **💬 Discord**: [Join our server](https://discord.gg/8UuNFPGcGN) for support, feedback, and beta testing
-- **📱 Telegram**: [Join the group](https://t.me/transcriboai)
-- **🐦 X/Twitter**: [@transcriboai](https://x.com/transcriboai)
-- **📺 YouTube**: [Watch tutorials](https://www.youtube.com/@TranscriboAI)
-- **🌐 Website**: [transcriboai.com](https://transcriboai.com)
+- **Discord**: [Join our server](https://discord.gg/8UuNFPGcGN) for support, feedback, and beta testing
+- **Telegram**: [Join the group](https://t.me/transcriboai)
+- **X/Twitter**: [@transcriboai](https://x.com/transcriboai)
+- **YouTube**: [Watch tutorials](https://www.youtube.com/@TranscriboAI)
+- **Website**: [transcriboai.com](https://transcriboai.com)
 
 ---
 
-## 🐛 Beta Testing
+## Beta Testing
 
 We're currently in **beta (v0.1.4)** and looking for testers!
 
 **Help us make Transcribo perfect and get:**
-- ✅ Lifetime VIP Supporter status
-- ✅ Free perpetual license
-- ✅ Direct access to developers
-- ✅ Shape the roadmap
+- Lifetime VIP Supporter status
+- Free perpetual license
+- Direct access to developers
+- Shape the roadmap
 
 **Join the beta**: [Discord #beta-testing channel](https://discord.gg/8UuNFPGcGN)
 
 ---
 
-## 📝 Changelog
+## Changelog
 
 ### v0.1.4 (Latest)
 - Enhanced stability and performance
@@ -266,32 +266,32 @@ We're currently in **beta (v0.1.4)** and looking for testers!
 
 ---
 
-## 📄 License
+## License
 
 Transcribo is proprietary software with a **perpetual license** model. Purchase once, own forever.
 
-- ✅ Personal and commercial use allowed
-- ✅ Install on multiple personal devices
-- ✅ Free updates for life
-- ❌ No redistribution or resale
+- Personal and commercial use allowed
+- Install on multiple personal devices
+- Free updates for life
+- No redistribution or resale
 
 ---
 
-## 💖 Support the Project
+## Support the Project
 
 Love Transcribo? Here's how you can help:
 
-- ⭐ **Star this repo** to show your support
-- 🐛 **Report bugs** in our Discord
-- 💡 **Suggest features** in the community
-- 📢 **Spread the word** on social media
-- 🎁 **Become a Supporter** for VIP benefits
+- **Star this repo** to show your support
+- **Report bugs** in our Discord
+- **Suggest features** in the community
+- **Spread the word** on social media
+- **Become a Supporter** for VIP benefits
 
 ---
 
 <div align="center">
 
-**Made with ❤️ for privacy-conscious creators**
+**Made with heart for privacy-conscious creators**
 
 [Website](https://transcriboai.com) • [Discord](https://discord.gg/8UuNFPGcGN) • [Twitter](https://x.com/transcriboai) • [YouTube](https://www.youtube.com/@TranscriboAI)
 
